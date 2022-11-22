@@ -1,8 +1,6 @@
 package StudySession.Week9;
 
-import java.util.Scanner;
-
-public class Week8_2 {
+public class Week8_ {
 
     public static void main(String[] args)
     {
